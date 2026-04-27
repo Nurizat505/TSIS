@@ -3,5 +3,5 @@ DATABASE_ACCESS = {
     "database": "snake_game",
     "user": "postgres",
     "password": "123456",
-    "port": "5432",
+    "port": 5432
 }
